@@ -1,0 +1,15 @@
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Знакомство с языками программирования (лекции)\Lekcii\Lekciya3\FOR\obj\Debug\net6.0\FOR.csproj.AssemblyReference.cache
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Знакомство с языками программирования (лекции)\Lekcii\Lekciya3\FOR\obj\Debug\net6.0\FOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Знакомство с языками программирования (лекции)\Lekcii\Lekciya3\FOR\obj\Debug\net6.0\FOR.AssemblyInfoInputs.cache
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Знакомство с языками программирования (лекции)\Lekcii\Lekciya3\FOR\obj\Debug\net6.0\FOR.AssemblyInfo.cs
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Знакомство с языками программирования (лекции)\Lekcii\Lekciya3\FOR\obj\Debug\net6.0\FOR.csproj.CoreCompileInputs.cache
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Знакомство с языками программирования (лекции)\Lekcii\Lekciya3\FOR\bin\Debug\net6.0\FOR.exe
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Знакомство с языками программирования (лекции)\Lekcii\Lekciya3\FOR\bin\Debug\net6.0\FOR.deps.json
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Знакомство с языками программирования (лекции)\Lekcii\Lekciya3\FOR\bin\Debug\net6.0\FOR.runtimeconfig.json
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Знакомство с языками программирования (лекции)\Lekcii\Lekciya3\FOR\bin\Debug\net6.0\FOR.dll
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Знакомство с языками программирования (лекции)\Lekcii\Lekciya3\FOR\bin\Debug\net6.0\FOR.pdb
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Знакомство с языками программирования (лекции)\Lekcii\Lekciya3\FOR\obj\Debug\net6.0\FOR.dll
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Знакомство с языками программирования (лекции)\Lekcii\Lekciya3\FOR\obj\Debug\net6.0\refint\FOR.dll
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Знакомство с языками программирования (лекции)\Lekcii\Lekciya3\FOR\obj\Debug\net6.0\FOR.pdb
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Знакомство с языками программирования (лекции)\Lekcii\Lekciya3\FOR\obj\Debug\net6.0\FOR.genruntimeconfig.cache
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Знакомство с языками программирования (лекции)\Lekcii\Lekciya3\FOR\obj\Debug\net6.0\ref\FOR.dll
